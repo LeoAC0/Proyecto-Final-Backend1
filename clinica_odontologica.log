@@ -1,0 +1,292 @@
+ERROR   2022-11-28 20:58:51,609 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "p"
+ERROR   2022-11-28 20:59:47,253 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Failed to convert value of type 'java.lang.String' to required type 'java.lang.Long'; For input string: "u"
+INFO    2022-12-04 19:52:44,126 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@6bfc5296
+INFO    2022-12-04 19:52:44,228 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-04 19:56:42,311 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-04 19:58:24,928 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@6e17488
+INFO    2022-12-04 19:59:41,575 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@4b5f1334
+INFO    2022-12-04 20:00:09,923 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-04 20:08:56,782 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@60d5de7f
+INFO    2022-12-04 20:09:07,382 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-04 20:09:24,329 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Pacientes
+INFO    2022-12-04 20:15:16,450 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@75464b55
+INFO    2022-12-04 20:16:32,733 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@7835c6bc
+INFO    2022-12-04 20:16:38,350 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Pacientes
+INFO    2022-12-04 20:19:00,181 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@53ce2383
+INFO    2022-12-04 20:19:43,393 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@4c85a8df
+INFO    2022-12-04 20:20:47,190 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Pacientes
+INFO    2022-12-04 20:21:11,799 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@3436196b
+INFO    2022-12-04 20:21:15,795 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Pacientes
+INFO    2022-12-04 20:22:25,222 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Paciente con id = 3
+INFO    2022-12-04 20:22:29,675 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Pacientes
+INFO    2022-12-04 20:23:05,372 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-04 20:23:12,676 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 2
+INFO    2022-12-04 20:23:16,563 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+ERROR   2022-12-04 20:29:55,110 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - not-null property references a null or transient value : com.example.ConsultorioSpringAcosta.model.Turno.pacientes
+INFO    2022-12-04 20:41:15,404 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Pacientes
+INFO    2022-12-04 20:41:21,488 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+ERROR   2022-12-04 20:42:01,854 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - not-null property references a null or transient value : com.example.ConsultorioSpringAcosta.model.Turno.pacientes
+ERROR   2022-12-04 21:06:12,207 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - not-null property references a null or transient value : com.example.ConsultorioSpringAcosta.model.Turno.pacientes
+ERROR   2022-12-04 21:12:26,414 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - not-null property references a null or transient value : com.example.ConsultorioSpringAcosta.model.Turno.pacientes
+ERROR   2022-12-04 21:12:48,295 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - org.hibernate.TransientPropertyValueException: Not-null property references a transient value - transient instance must be saved before current operation : com.example.ConsultorioSpringAcosta.model.Turno.odontologo -> com.example.ConsultorioSpringAcosta.model.Odontologo
+INFO    2022-12-05 19:14:40,882 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Pacientes
+INFO    2022-12-06 12:01:12,924 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@6164b3a2
+INFO    2022-12-06 12:01:13,022 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-06 18:05:12,590 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@3ad57d3f
+INFO    2022-12-06 18:05:27,934 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@486477e0
+INFO    2022-12-06 18:06:56,488 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Pacientes
+INFO    2022-12-06 18:59:50,043 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-06 18:59:54,508 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@4eab7b4d
+INFO    2022-12-06 18:59:59,125 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-06 19:00:35,821 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@400dbf49
+INFO    2022-12-06 19:00:46,314 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-06 19:01:22,272 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@2d37fd5c
+INFO    2022-12-06 19:01:27,817 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-06 19:02:10,978 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 1
+INFO    2022-12-06 19:02:16,474 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-06 20:26:23,810 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@1b55bc32
+INFO    2022-12-06 20:26:49,055 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-06 20:27:31,139 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@7689aba
+INFO    2022-12-06 20:27:38,514 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-06 20:39:08,930 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@610321cc
+INFO    2022-12-06 20:39:16,052 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-06 21:35:44,908 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@29e9bfb3
+INFO    2022-12-06 21:35:53,165 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-06 21:35:58,119 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-06 21:36:57,730 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@4da22cf0
+INFO    2022-12-06 21:52:53,028 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@56e0f1ae
+INFO    2022-12-06 21:53:39,984 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-06 21:53:42,811 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-06 22:07:45,138 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@2b46759b
+INFO    2022-12-06 22:12:25,893 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@7c6c91e6
+INFO    2022-12-06 22:12:31,842 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-06 22:12:34,771 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-06 22:15:31,982 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@27fec694
+INFO    2022-12-06 22:16:34,349 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-06 22:16:40,879 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-07 16:10:23,717 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@16269ff4
+INFO    2022-12-07 16:10:23,778 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-07 17:06:13,082 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@117b93e8
+INFO    2022-12-07 17:06:15,704 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+ERROR   2022-12-07 17:06:23,148 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.example.ConsultorioSpringAcosta.controller.OdontologoController.modificarOdontologo(com.example.ConsultorioSpringAcosta.model.OdontologoDTO)
+INFO    2022-12-07 17:06:26,866 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 1
+INFO    2022-12-07 17:06:31,669 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-07 17:10:58,496 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@3f6dccf0
+INFO    2022-12-07 17:11:26,717 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@52d19ee0
+INFO    2022-12-07 17:11:28,604 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-07 17:11:59,055 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 2
+INFO    2022-12-07 17:12:00,215 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 3
+INFO    2022-12-07 17:17:18,143 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@34924898
+INFO    2022-12-07 17:17:54,974 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@290afeda
+INFO    2022-12-07 17:17:56,840 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+ERROR   2022-12-07 17:17:59,694 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.example.ConsultorioSpringAcosta.controller.OdontologoController.modificarOdontologo(com.example.ConsultorioSpringAcosta.model.OdontologoDTO)
+ERROR   2022-12-07 17:18:10,892 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.example.ConsultorioSpringAcosta.controller.OdontologoController.modificarOdontologo(com.example.ConsultorioSpringAcosta.model.OdontologoDTO)
+ERROR   2022-12-07 17:18:48,643 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.example.ConsultorioSpringAcosta.controller.OdontologoController.modificarOdontologo(com.example.ConsultorioSpringAcosta.model.OdontologoDTO)
+INFO    2022-12-07 17:19:17,829 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+ERROR   2022-12-07 17:22:37,689 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.example.ConsultorioSpringAcosta.controller.OdontologoController.modificarOdontologo(com.example.ConsultorioSpringAcosta.model.OdontologoDTO)
+INFO    2022-12-07 17:26:13,766 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@6aab1e71
+INFO    2022-12-07 17:26:18,201 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-07 17:26:21,387 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-07 17:26:26,717 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-07 17:27:11,124 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-07 17:27:18,257 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-07 17:27:19,671 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 17:48:32,759 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@341c0dfc
+INFO    2022-12-11 17:48:32,840 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 17:50:18,685 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@192c0228
+INFO    2022-12-11 17:50:23,412 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+ERROR   2022-12-11 17:50:26,089 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.example.ConsultorioSpringAcosta.controller.OdontologoController.modificarOdontologo(com.example.ConsultorioSpringAcosta.model.OdontologoDTO)
+ERROR   2022-12-11 17:50:57,428 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.example.ConsultorioSpringAcosta.controller.OdontologoController.modificarOdontologo(com.example.ConsultorioSpringAcosta.model.OdontologoDTO)
+INFO    2022-12-11 17:59:30,893 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 17:59:36,141 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 17:59:57,311 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@39eec013
+INFO    2022-12-11 18:00:01,868 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:00:04,693 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+ERROR   2022-12-11 18:00:07,582 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.example.ConsultorioSpringAcosta.controller.OdontologoController.modificarOdontologo(com.example.ConsultorioSpringAcosta.model.OdontologoDTO)
+INFO    2022-12-11 18:00:56,343 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 1
+INFO    2022-12-11 18:00:58,941 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:01:01,748 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:01:02,748 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+ERROR   2022-12-11 18:03:08,070 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.example.ConsultorioSpringAcosta.controller.OdontologoController.modificarOdontologo(com.example.ConsultorioSpringAcosta.model.OdontologoDTO)
+ERROR   2022-12-11 18:05:02,126 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.example.ConsultorioSpringAcosta.controller.OdontologoController.modificarOdontologo(com.example.ConsultorioSpringAcosta.model.OdontologoDTO)
+INFO    2022-12-11 18:05:25,178 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:09:57,039 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:10:43,909 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@22ea5058
+INFO    2022-12-11 18:11:08,537 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:29:07,248 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:29:17,608 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@51b87cc7
+INFO    2022-12-11 18:29:20,938 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:29:23,181 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+ERROR   2022-12-11 18:29:26,232 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.example.ConsultorioSpringAcosta.controller.OdontologoController.modificarOdontologo(com.example.ConsultorioSpringAcosta.model.OdontologoDTO)
+INFO    2022-12-11 18:30:37,300 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:32:39,553 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@3dd27116
+INFO    2022-12-11 18:32:39,664 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 18:33:56,167 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:34:02,138 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:34:18,132 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@174e1404
+INFO    2022-12-11 18:34:26,251 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@6c690b86
+INFO    2022-12-11 18:34:28,277 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:34:52,649 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 1
+INFO    2022-12-11 18:34:58,496 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:35:27,356 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@6acdf76d
+INFO    2022-12-11 18:35:31,260 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+ERROR   2022-12-11 18:35:35,156 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.example.ConsultorioSpringAcosta.controller.OdontologoController.modificarOdontologo(com.example.ConsultorioSpringAcosta.model.OdontologoDTO)
+ERROR   2022-12-11 18:38:29,434 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.example.ConsultorioSpringAcosta.controller.OdontologoController.modificarOdontologo(com.example.ConsultorioSpringAcosta.model.OdontologoDTO)
+INFO    2022-12-11 18:45:25,962 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@229aabbc
+INFO    2022-12-11 18:45:27,442 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:45:37,688 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@52212c19
+INFO    2022-12-11 18:45:39,572 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:45:40,365 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+ERROR   2022-12-11 18:45:42,266 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.example.ConsultorioSpringAcosta.controller.OdontologoController.modificarOdontologo(com.example.ConsultorioSpringAcosta.model.OdontologoDTO)
+INFO    2022-12-11 18:47:42,686 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:48:14,774 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@33c54c53
+INFO    2022-12-11 18:48:16,818 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:48:18,231 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:48:29,530 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:48:36,244 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 1
+INFO    2022-12-11 18:49:02,440 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@24ff167
+INFO    2022-12-11 18:49:04,256 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:49:05,684 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 18:49:27,072 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 2
+INFO    2022-12-11 19:00:53,576 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@4e3e809
+INFO    2022-12-11 19:01:02,898 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@60219b3a
+INFO    2022-12-11 19:01:07,760 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:01:09,206 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:01:26,992 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 1
+ERROR   2022-12-11 19:01:31,337 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.example.ConsultorioSpringAcosta.controller.OdontologoController.modificarOdontologo(com.example.ConsultorioSpringAcosta.model.OdontologoDTO)
+INFO    2022-12-11 19:06:50,504 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@5e7ea81b
+INFO    2022-12-11 19:06:50,624 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 19:07:58,159 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@6ed550c0
+INFO    2022-12-11 19:08:09,786 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@f2334f
+INFO    2022-12-11 19:08:11,626 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:08:13,150 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:08:17,297 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 1
+INFO    2022-12-11 19:08:36,704 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@44a1af94
+INFO    2022-12-11 19:09:02,217 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@7613d11e
+INFO    2022-12-11 19:09:11,916 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:09:51,270 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 2
+INFO    2022-12-11 19:10:39,235 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@77e2915a
+INFO    2022-12-11 19:10:52,482 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:12:38,123 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 1
+INFO    2022-12-11 19:12:43,039 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@494a1ea8
+INFO    2022-12-11 19:13:02,776 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@33ae4db5
+INFO    2022-12-11 19:19:57,304 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:19:58,298 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+ERROR   2022-12-11 19:19:59,497 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.GlobalExceptionHandler  - Required request body is missing: public org.springframework.http.ResponseEntity<?> com.example.ConsultorioSpringAcosta.controller.OdontologoController.modificarOdontologo(com.example.ConsultorioSpringAcosta.model.OdontologoDTO)
+INFO    2022-12-11 19:20:05,932 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:20:07,328 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 1
+INFO    2022-12-11 19:20:22,568 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@4d1516c0
+INFO    2022-12-11 19:20:24,964 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:32:18,371 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@25474810
+INFO    2022-12-11 19:32:27,898 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@60219b3a
+INFO    2022-12-11 19:32:30,128 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:32:35,443 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:32:44,169 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 2
+INFO    2022-12-11 19:32:47,978 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:32:51,828 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 1
+INFO    2022-12-11 19:33:00,130 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@7f5579dc
+INFO    2022-12-11 19:33:03,595 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:46:26,025 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 1
+INFO    2022-12-11 19:46:56,963 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:47:08,448 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@4c7486c
+INFO    2022-12-11 19:47:21,346 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@56884c93
+INFO    2022-12-11 19:47:25,343 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:47:27,655 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:47:38,754 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 3
+INFO    2022-12-11 19:47:47,756 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@2b57478d
+INFO    2022-12-11 19:47:51,510 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 4
+INFO    2022-12-11 19:47:58,550 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@27f6f5d2
+INFO    2022-12-11 19:48:12,046 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:48:24,352 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:48:27,761 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:50:20,975 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 4
+INFO    2022-12-11 19:50:22,437 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 3
+INFO    2022-12-11 19:50:23,706 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:58:06,115 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@46125e8e
+INFO    2022-12-11 19:58:16,635 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@42d392be
+INFO    2022-12-11 19:58:18,266 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:58:19,924 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:58:25,079 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 1
+INFO    2022-12-11 19:58:34,962 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@566b126a
+INFO    2022-12-11 19:58:35,147 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:58:44,829 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 2
+INFO    2022-12-11 19:58:56,666 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:59:00,598 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:59:04,662 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 2
+INFO    2022-12-11 19:59:11,715 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@2d5fede6
+INFO    2022-12-11 19:59:12,038 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:59:19,424 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 2
+INFO    2022-12-11 19:59:23,801 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 2
+INFO    2022-12-11 19:59:25,048 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 19:59:43,500 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 1
+INFO    2022-12-11 19:59:46,779 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:00:02,515 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@16ee00f5
+INFO    2022-12-11 20:00:04,745 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:00:12,093 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:00:14,976 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 3
+INFO    2022-12-11 20:00:32,720 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@6b0b9f93
+INFO    2022-12-11 20:00:33,050 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:03:07,268 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@2b5ed132
+INFO    2022-12-11 20:04:02,014 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:04:19,263 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 2
+INFO    2022-12-11 20:04:21,239 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:04:24,395 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:04:42,424 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 4
+INFO    2022-12-11 20:42:22,572 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@22349ad3
+INFO    2022-12-11 20:42:22,649 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 20:43:38,902 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@33fe4091
+INFO    2022-12-11 20:43:57,941 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@1e88500f
+INFO    2022-12-11 20:44:08,728 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@52212c19
+INFO    2022-12-11 20:44:11,838 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:44:17,404 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:44:23,033 [http-nio-8080-exec-6] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 1
+INFO    2022-12-11 20:44:26,377 [http-nio-8080-exec-2] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:44:30,879 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:44:32,755 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 1
+INFO    2022-12-11 20:44:41,022 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@1915bb34
+INFO    2022-12-11 20:44:41,225 [http-nio-8080-exec-1] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:44:59,047 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 3
+INFO    2022-12-11 20:45:05,101 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@64667277
+INFO    2022-12-11 20:45:05,644 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:45:12,238 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Odontólogo con id = 2
+INFO    2022-12-11 20:45:22,765 [http-nio-8080-exec-10] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Odontólogo: com.example.ConsultorioSpringAcosta.model.OdontologoDTO@1347b87f
+INFO    2022-12-11 20:45:23,306 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:45:30,532 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:45:34,447 [http-nio-8080-exec-9] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:46:21,435 [http-nio-8080-exec-7] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 3
+INFO    2022-12-11 20:46:29,884 [http-nio-8080-exec-4] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:46:40,646 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 1
+INFO    2022-12-11 20:46:44,606 [http-nio-8080-exec-5] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:47:18,205 [http-nio-8080-exec-3] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Odontólogo con id = 2
+INFO    2022-12-11 20:47:20,563 [http-nio-8080-exec-8] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se listaron todos los Odontólogos
+INFO    2022-12-11 20:50:11,426 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@397f925e
+INFO    2022-12-11 20:50:11,511 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 20:55:44,024 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@f5b4ca6
+INFO    2022-12-11 20:55:44,079 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 20:55:44,109 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 20:55:44,134 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@742aa00a
+INFO    2022-12-11 20:55:44,137 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 20:59:53,155 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@596d17f4
+INFO    2022-12-11 20:59:53,225 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 20:59:53,271 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Paciente con id = 1
+INFO    2022-12-11 21:02:25,804 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@5ef48b08
+INFO    2022-12-11 21:02:25,888 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 21:02:25,948 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Paciente con id = 1
+INFO    2022-12-11 21:03:14,607 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@58b30e3e
+INFO    2022-12-11 21:03:14,673 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 21:03:14,729 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Paciente con id = 1
+INFO    2022-12-11 21:06:37,706 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@63d14dbf
+INFO    2022-12-11 21:06:37,784 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 21:06:37,844 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Paciente con id = 1
+INFO    2022-12-11 21:16:43,250 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@363a09a2
+INFO    2022-12-11 21:16:43,318 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 21:16:43,344 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 21:16:43,370 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@5ed463b7
+INFO    2022-12-11 21:16:43,372 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 21:16:43,445 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Paciente con id = 1
+INFO    2022-12-11 21:18:30,705 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se agregó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@3da6950f
+INFO    2022-12-11 21:18:30,771 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 21:18:30,800 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 21:18:30,835 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se modificó con éxito el siguiente Paciente: com.example.ConsultorioSpringAcosta.model.PacienteDTO@1a82453
+INFO    2022-12-11 21:18:30,837 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se encontró el Paciente con id = 1
+INFO    2022-12-11 21:18:30,871 [main] com.example.ConsultorioSpringAcosta.service.OdontologoService  - Se eliminó el Paciente con id = 1
